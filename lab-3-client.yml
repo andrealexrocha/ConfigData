@@ -1,2 +1,2 @@
-lucky-word = "Irish", "Rabbit's Foot", "Serendipity"
-teste = "teste 01"
+lucky-word: "Irish", "Rabbit's Foot", "Serendipity"
+teste: "teste 01"
