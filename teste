@@ -1,3 +1,4 @@
+server.port = 8082
 lucky-word: "Irish, Rabbit's Foot , Serendipity teste"
 management.security.enable: false
 teste: "teste 01"
