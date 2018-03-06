@@ -3,3 +3,4 @@ management.security.enable: false
 teste: "teste 01"
 example.name = "teste"
 example.age = "10"
+teste.teste = ""
