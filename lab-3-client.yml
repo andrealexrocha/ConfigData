@@ -1,3 +1,5 @@
 lucky-word: "Irish, Rabbit's Foot , Serendipity teste"
 management.security.enable: false
 teste: "teste 01"
+example.name: "André"
+example.age: 10
